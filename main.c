@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int	g_Lib; // global
+
 int func_add ( int arg1, int arg2 )
 {
 	return ( arg1 + arg2 );
