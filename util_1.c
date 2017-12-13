@@ -12,3 +12,8 @@ int aaa ()
 {
 	printf("aaaa\n");
 }
+
+int bbb ()
+{
+	printf("bbbb\n");
+}
