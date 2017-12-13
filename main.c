@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 int	g_Lib; // global
+int	g_Cfg; // R100
 
 int func_add ( int arg1, int arg2 )
 {
