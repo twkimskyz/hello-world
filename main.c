@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// R100
+int	g_Cfg;
+
 int func_add ( int arg1, int arg2 )
 {
 	return ( arg1 + arg2 );
