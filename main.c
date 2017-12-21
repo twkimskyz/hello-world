@@ -16,6 +16,7 @@ int func_sub ( int arg1, int arg2 )
 
 int func_exp ( )
 {
+	// dummy return
 	return 0;
 }
 
